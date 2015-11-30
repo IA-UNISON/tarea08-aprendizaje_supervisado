@@ -32,12 +32,14 @@ desde la tarea anterior: La clasificación de la base de datos DNA.
 
 5. Aplica el método de los K vecinos más próximos, y resuelve la siguiente tabla
 
+      ==========================================================
       | Vecinos | error datos prueba | error datos prueba ruido|
       | 1       |                    |                         |
       | 3       |                    |                         |
       | 5       |                    |                         |
       | 7       |                    |                         |
       | 9       |                    |                         |
+      ==========================================================
       
 6. Contesta las siguientes preguntas:
 

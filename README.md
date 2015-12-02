@@ -20,12 +20,17 @@ desde la tarea anterior: La clasificación de la base de datos DNA.
    atributos cualitativos, que utilice al menos 3 criterios de prepoda (los mismos vistos para el árbol ID3).
    Contesta las siguientes preguntas (utilizando la función `pruebaCART` del modulo `tarea8.py`:
 
-		+ ¿Cual es la diferencia entre el árbol tipo CART y el ID3?
-		+ ¿Cual es más eficiente?
-		+ ¿Cuanto nodos genera cada uno?
-		+ ¿Cuantos nodos hoja genera cada uno?
-		+ ¿Cual tiene el menor error en los datos de prueba?
-		+ ¿A que crees que se debe que hay errores de aprendizaje con los datos de entrenamiento?
+	+ ¿Cual es la diferencia entre el árbol tipo CART y el ID3?
+
+	+ ¿Cual es más eficiente?
+
+	+ ¿Cuanto nodos genera cada uno?
+
+	+ ¿Cuantos nodos hoja genera cada uno?
+
+	+ ¿Cual tiene el menor error en los datos de prueba?
+
+	+ ¿A que crees que se debe que hay errores de aprendizaje con los datos de entrenamiento?
 
 4. Desarrolla en un modulo llamado `knn.py` una clase para realizar clasificación con k vecinos próximos. Recuerda que 
    los datos de entrenamiento se utilizan para encontrar los vecinos (osea que los datos de entrenamiento sin ruido
@@ -44,6 +49,8 @@ desde la tarea anterior: La clasificación de la base de datos DNA.
 
 6. Contesta las siguientes preguntas:
 
-		+ ¿Que método da menos error entre knn, CART, Id3 y naive bayes en los datos sin ruido?
-		+ ¿Que método da menos error entre knn, CART, Id3 y naive bayes en los datos con ruido?
-		+ ¿Mejora al aumentar el número de vecinos? ¿Hasta cuantos vecinos?
+	+ ¿Que método da menos error entre knn, CART, Id3 y naive bayes en los datos sin ruido?
+
+	+ ¿Que método da menos error entre knn, CART, Id3 y naive bayes en los datos con ruido?
+
+	+ ¿Mejora al aumentar el número de vecinos? ¿Hasta cuantos vecinos?
